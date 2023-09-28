@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/joaovertelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 [![Gmail](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vertelodev@gmail.com)](mailto:vertelodev@gmail.com)&nbsp;
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC6TocymC1Oi6KV9_iMkyxNw)](https://img.shields.io/youtube/channel/subscribers/UC6TocymC1Oi6KV9_iMkyxNw)
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC6TocymC1Oi6KV9_iMkyxNw)](https://www.youtube.com/@devertelo)
   
 </div>
 
